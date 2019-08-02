@@ -1,0 +1,16 @@
+HOW TO SETUP AND ENVIROMENT TO USE REACT LIBRARY
+-------------------------------------------------
+$npm init -y 
+
+$npm install react react-dom       // instalando react e react-dom, pq vamos utilizar só estes dois modulos/files
+
+$sudo npm install parcel-bundler -g 
+
+Agora podemos utilizar nosso biblioteca React
+===
+Run
+$parcel index.html
+
+===
+Run sass:
+$npm run sass
